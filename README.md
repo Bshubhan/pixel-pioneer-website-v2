@@ -15,3 +15,5 @@ This is an independent static website starter for Pixel Pioneer.
 5. Test desktop/mobile layouts and all links.
 
 No domain or DNS settings are changed by these files.
+
+Pixel Pioneer 2.0 — Official Website
